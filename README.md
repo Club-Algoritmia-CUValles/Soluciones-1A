@@ -37,8 +37,8 @@ Link to the problem: [A. Theatre Square](https://codeforces.com/problemset/probl
 
 ### Lista de soluciones
 
-- [Jonathan Rafael Arreola Ramirez](https://github.com/JonathanArreola/sol-1A/blob/main/jc.cpp)
-- [Manuel Contreras Covarrubias](https://github.com/ManuelContreras/sol-1A/blob/main/mc.cpp)
-- [Juan Carlos Resendiz Camacho](https://github.com/JuanCarlosResendiz/sol-1A/blob/main/jr.cpp)
+- [Jonathan Rafael Arreola Ramirez](https://github.com/Club-Algoritmia-CUValles/Soluciones-1A/blob/main/jc.cpp)
+- [Manuel Contreras Covarrubias](https://github.com/Club-Algoritmia-CUValles/Soluciones-1A/blob/main/mc.cpp)
+- [Juan Carlos Resendiz Camacho](https://github.com/Club-Algoritmia-CUValles/Soluciones-1A/blob/main/jr.cpp)
 
 
